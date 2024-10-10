@@ -1,0 +1,9 @@
+body {
+    background-color: antiquewhite;
+}
+h1 {
+    border: 2px solid darkblue;
+    border-radius: 40px;
+    text-align: center;
+    color: rgba(30, 143, 255, 0.694);
+}
